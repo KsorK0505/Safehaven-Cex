@@ -28,6 +28,7 @@ export default defineConfig({
       "@store": "/src/store",
       "@styles": "/src/styles",
       "@api": "/src/api",
+      "@hooks": "/src/hooks",
     },
   },
 });
